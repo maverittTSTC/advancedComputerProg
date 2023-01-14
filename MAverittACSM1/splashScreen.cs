@@ -28,7 +28,7 @@ namespace MAverittACSM1
         {
             bkgWorker.WorkerReportsProgress= true;
             bkgWorker.RunWorkerAsync();
-            timeLeft = 160;
+            timeLeft = 150;
             tmrSplash.Start();
         }
 
