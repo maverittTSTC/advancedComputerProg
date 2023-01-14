@@ -12,36 +12,39 @@ namespace MAverittACSM1
 
         private void tmrSplash_Tick(object sender, EventArgs e)
         {
-            if (timeLeft> 0)
+            if (timeLeft > 0)
             {
                 timeLeft = timeLeft - 1;
             }
             else
             {
-                tmrSplash.Stop();
-                new frmMain().Show();
                 this.Hide();
+                new frmMain().Show();
+                tmrSplash.Stop();
             }
         }
 
         private void frmSplash_Load(object sender, EventArgs e)
         {
-            ProgressBar pBar = new ProgressBar();
-            pBar.Location = new System.Drawing.Point(125, 350);
-            pBar.Name = "prgSplash";
-            pBar.Width= 550;
-            pBar.Height= 45;
-            Controls.Add(pBar);
-            //pBar.Dock = DockStyle.Bottom;
-            pBar.Minimum = 0;
-            pBar.Maximum = 100;
-            pBar.Value= 0;
-
-
-            //pBar.Value= timeLeft;
-            timeLeft = 10;
+            bkgWorker.WorkerReportsProgress= true;
+            bkgWorker.RunWorkerAsync();
+            timeLeft = 160;
             tmrSplash.Start();
-            
+        }
+
+        private void bkgWorker_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
+        {
+            for (int i = 1; i <= 100; i++)
+            {
+                Thread.Sleep(150);
+                bkgWorker.ReportProgress(i);
+            }
+        }
+
+        private void bkgWorker_ProgressChanged(object sender, System.ComponentModel.ProgressChangedEventArgs e)
+        {
+            pgrSplash.Value = e.ProgressPercentage;
+            lblProgress.Text = "Progress: " + e.ProgressPercentage.ToString() + "%";
         }
     }
 }
