@@ -1,6 +1,6 @@
 ﻿namespace MAverittACSM1
 {
-    partial class frmMain
+    partial class frmAbout
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // frmMain
+            // frmAbout
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "frmMain";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmMain";
+            this.Name = "frmAbout";
+            this.Text = "About";
             this.ResumeLayout(false);
 
         }

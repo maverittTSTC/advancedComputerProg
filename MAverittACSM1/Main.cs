@@ -10,11 +10,20 @@ using System.Windows.Forms;
 
 namespace MAverittACSM1
 {
-    public partial class frmMain : Form
+    public partial class Main : Form
     {
-        public frmMain()
+        public Main()
         {
             InitializeComponent();
         }
+
+
+
+
+
+
+
+
+
     }
 }

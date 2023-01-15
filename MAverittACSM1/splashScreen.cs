@@ -20,7 +20,7 @@ namespace MAverittACSM1
             else
             {
                 this.Hide();
-                new frmMain().Show();
+                new Main().Show();
                 tmrSplash.Stop();
             }
         }
