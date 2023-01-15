@@ -16,5 +16,10 @@ namespace MAverittACSM1
         {
             InitializeComponent();
         }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

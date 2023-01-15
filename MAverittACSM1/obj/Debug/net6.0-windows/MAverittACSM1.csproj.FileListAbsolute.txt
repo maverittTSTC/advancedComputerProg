@@ -4,7 +4,6 @@ C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\bin\Debug\net6.0-w
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\bin\Debug\net6.0-windows\MAverittACSM1.dll
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\bin\Debug\net6.0-windows\MAverittACSM1.pdb
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.csproj.AssemblyReference.cache
-C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.frmMain.resources
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.Properties.Resources.resources
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.frmSplash.resources
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.csproj.GenerateResource.cache
@@ -17,3 +16,5 @@ C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-w
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.pdb
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.genruntimeconfig.cache
 C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\ref\MAverittACSM1.dll
+C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.frmAbout.resources
+C:\Users\Mike\source\repos\advancedComputerProg\MAverittACSM1\obj\Debug\net6.0-windows\MAverittACSM1.Main.resources
