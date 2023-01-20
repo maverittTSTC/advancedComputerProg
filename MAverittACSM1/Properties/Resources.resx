@@ -121,4 +121,55 @@
   <data name="splashScreen" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\images\splashScreen.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="balloonFight" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\balloonFight.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bladesOfSteel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\bladesOfSteel.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="burgerTime" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\burgerTime.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dinoRiki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\dinoRiki.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="drMario" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\drMario.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="duckhunt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\duckhunt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exciteBike" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\exciteBike.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="iceClimbers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\iceClimbers.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="megaMan2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\megaMan2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="megaMan3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\megaMan3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="megaMan5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\megaMan5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rcProAm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\rcProAm.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\smb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\smb2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="smb3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\smb3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tinyToons" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\tinyToons.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tmnt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\images\tmnt.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

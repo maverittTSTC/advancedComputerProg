@@ -51,5 +51,13 @@ namespace MAverittACSM1
         {
             Application.Exit();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            string path = @"..\..\..\images\";
+            pbx1.BackgroundImageLayout = ImageLayout.Zoom;
+            pbx1.BackgroundImage = Image.FromFile(path + "smb.jpg");
+
+        }
     }
 }
